@@ -27,6 +27,8 @@ int main(){
         if(inputs[i][0] != '\0')
             printf("%s\n", inputs[i]);
     }
+
+    return 0;
 }
 
 /*GetLine: Get input from user*/
